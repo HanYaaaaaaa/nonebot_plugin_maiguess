@@ -20,3 +20,5 @@ nonebot_plugin_maiguess
 --------
 * 猜歌
 * 猜歌排名
+* 猜歌设置
+* 结束猜歌
